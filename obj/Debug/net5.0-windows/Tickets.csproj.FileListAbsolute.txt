@@ -1,0 +1,14 @@
+C:\Users\Майя\source\repos\Tickets\Tickets\obj\Debug\net5.0-windows\Tickets.csproj.AssemblyReference.cache
+C:\Users\Майя\source\repos\Tickets\Tickets\obj\Debug\net5.0-windows\Tickets.Adm_Main.resources
+C:\Users\Майя\source\repos\Tickets\Tickets\obj\Debug\net5.0-windows\Tickets.Authorization.resources
+C:\Users\Майя\source\repos\Tickets\Tickets\obj\Debug\net5.0-windows\Tickets.BuyTicket.resources
+C:\Users\Майя\source\repos\Tickets\Tickets\obj\Debug\net5.0-windows\Tickets.Main.resources
+C:\Users\Майя\source\repos\Tickets\Tickets\obj\Debug\net5.0-windows\Tickets.NewTicket.resources
+C:\Users\Майя\source\repos\Tickets\Tickets\obj\Debug\net5.0-windows\Tickets.Properties.Resources.resources
+C:\Users\Майя\source\repos\Tickets\Tickets\obj\Debug\net5.0-windows\Tickets.Reg.resources
+C:\Users\Майя\source\repos\Tickets\Tickets\obj\Debug\net5.0-windows\Tickets.YourTicket.resources
+C:\Users\Майя\source\repos\Tickets\Tickets\obj\Debug\net5.0-windows\Tickets.csproj.GenerateResource.cache
+C:\Users\Майя\source\repos\Tickets\Tickets\obj\Debug\net5.0-windows\Tickets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Майя\source\repos\Tickets\Tickets\obj\Debug\net5.0-windows\Tickets.AssemblyInfoInputs.cache
+C:\Users\Майя\source\repos\Tickets\Tickets\obj\Debug\net5.0-windows\Tickets.AssemblyInfo.cs
+C:\Users\Майя\source\repos\Tickets\Tickets\obj\Debug\net5.0-windows\Tickets.csproj.CoreCompileInputs.cache
